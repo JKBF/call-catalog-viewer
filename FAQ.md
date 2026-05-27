@@ -3,9 +3,9 @@
 
 # Frequently Asked Questions
 
-# A Curated Collection of Orca Acoustics
+# A Curated Collection of Killer Whale Acoustics
 
-## Orca Call Catalogue
+## Killer Whale Call Catalogue
 
 > _A Listening Gallery of Sound Recordings and Spectrographs_
 
@@ -13,7 +13,7 @@ Researchers are currently aiming to “teach” artificial intelligence systems 
 
 Data used to train artificial intelligence systems come from various sources: from hydrophone nodes located near shipping lanes, to the contributions of citizen scientists and projects like [Orcasound](https://www.orcasound.net/) and [Whalesound.ca](https://whalesound.ca/).
 
-This website shares a curated collection of orca acoustics and annotations which represent the type of samples used in machine learning datasets. The collection serves as a teaching and training tool for ensuring consistency of labelling between listeners and annotators while demonstrating the complexity of communication within and between pods.
+This website shares a curated collection of orca calls and annotations which represent the type of samples used in machine learning datasets. The collection serves as a teaching and training tool for ensuring consistency of labelling between listeners and annotators while demonstrating the complexity of communication within and between pods.
 
 These samples have been gathered through decades of research by Dr. John Ford and James Pilkington (Fisheries and Oceans Canada's Pacific Biological Station) and their colleague Volker Deecke (University of Cumbria).
 
@@ -37,7 +37,7 @@ Thanks to **Ishan Sahay** and _SFUs Research Computing Group/IT Services_, and *
 
 # About the catalogue
 
-## Dialects of Killer Whales in Coastal Northeastern Pacific Waters: A Catalogue of Call Types of Resident and Bigg’s populations.
+## Dialects of Killer Whales in Coastal Northeastern Pacific Waters: A Catalogue of Call Types.
 
 ## Introduction and Background
 
@@ -77,17 +77,28 @@ Here are some clips from recordings of the different populations included in thi
 |<audio controls> <source type="audio/wav" src="./featured/Resident KW A clan_JFord.mp3?v=random" title="A01 and A05 pods (A clan)">Your browser does not support the audio element.</audio> |
 |A01 and A05 pods (A clan) |
 
+| |
+|-|
+|<audio controls> <source type="audio/wav" src="./featured/Resident KW G clan_JFord.mp3?v=random" title="I11 pod (G clan)">Your browser does not support the audio element.</audio> |
+|I11 pod (G clan) |
 
-
-•	I11pod  (G clan)
-
-•	R1 pod (R clan)
+| |
+|-|
+|<audio controls> <source type="audio/wav" src="./featured/Resident KW R clan_JFord.mp3?v=random" title="R01 pod (R clan)">Your browser does not support the audio element.</audio> |
+|R01 pod (R clan) |
 
 ### Bigg’s (Transient)
 
-•	A group of the Inner Coast subclan of the West Coast Transients
+| |
+|-|
+|<audio controls> <source type="audio/wav" src="./featured/WCoast Transient Inner Coast Subclan_JFord.mp3?v=random" title="A group of the Inner Coast subclan of the West Coast Transients">Your browser does not support the audio element.</audio> |
+|A group of the Inner Coast subclan of the West Coast Transients |
 
-•	A group of the Outer Coast subclan of the West Coast Transients
+| |
+|-|
+|<audio controls> <source type="audio/wav" src="./featured/WCoast Transient Outer Coast Subclan_JFord.mp3?v=random" title="A group of the Outer Coast subclan of the West Coast Transients">Your browser does not support the audio element.</audio> |
+|A group of the Outer Coast subclan of the West Coast Transients |
+
 
 # About Killer Whales and their Sounds
 
@@ -149,61 +160,7 @@ You must, where you do any of the above, use the following attribution statement
 
 > *Contains information licensed under the Open Government Licence &ndash; Canada 2.0.*
 
-## For research use of catalogue, the following citation should be used:
+## For research use or information taken from this catalogue, the following citation should be used:
 
 Ford, John K.B., Volker B. Deecke, and James F. Pilkington. 2026. Dialects of Killer Whales in Coastal Northeastern Pacific Waters: A Catalogue of Call Types. https://orca.research.sfu.ca/call-library, version 2026-Jun. [Accessed {today's date}]
-
-
-
-## Featured recordings
-
-Here are some clips from recordings of Southern Resident pods in action.
-
-| |
-|-|
-|<audio controls> <source type="audio/wav" src="./featured/J pod foraging_JFord.wav?v=random" title="J pod foraging, Boundary Pass. Call types S01 and S04 are most common in this activity state.">Your browser does not support the audio element.</audio> |
-| J pod foraging, Boundary Pass. Call types S01 and S04 are most common in this activity state |
-
-| |
-|-|
-|<audio controls> <source type="audio/wav" src="./featured/J pod travelling_JFord.wav?v=random" title="J pod travelling, Boundary Pass. Call types S02, S40, and S42 are frequently produced when J pod is moving quickly as a group.">Your browser does not support the audio element.</audio> |
-|J pod travelling, Boundary Pass. Call types S02, S40, and S42 are frequently produced when J pod is moving quickly as a group |
-
-| |
-|-|
-|<audio controls> <source type="audio/wav" src="./featured/L pod foraging_JFord.wav?v=random" title="L pod foraging, Juan de Fuca Strait">Your browser does not support the audio element.</audio> |
-| L pod foraging, Juan de Fuca Strait |
-
-| |
-|-|
-|<audio controls> <source type="audio/wav" src="./featured/J K L pods together_JFord.wav?v=random" title="J, K and L pods together, Juan de Fuca Strait">Your browser does not support the audio element.</audio> |
-|J, K and L pods together, Juan de Fuca Strait |
-
-<!--
-| |
-|-|
-|<audio controls> <source type="audio/wav" src="./catalogs/Southern Resident/media/J K L pods together_JFord.wav?v=random" title="J, K and L pods together, Juan de Fuca Strait">Your browser does not support the audio element.</audio> |
-|J, K and L pods together, Juan de Fuca Strait |
--->
-
-## What can we learn from killer whale sounds?
-
-The call dialect of a killer whale kin group is learned by calves as they grow up and are retained for life. Thus, dialects are passed on from generation to generation and are a cultural reflection of the lineage of a particular pod, clan, or population, which may persist for centuries. Patterns of similarities and differences in the dialects of resident pods have revealed much about their ancestry, with some pods being very closely related and others more distant.
-
-The dialects of orcas are also a useful and important tool for studying the seasonal movement patterns of different pods and populations. Remote underwater acoustical devices placed on the seafloor or hydrophones cabled to shore collect recordings of killer whale sounds, which can then be interpreted to identify the population and, for Resident orcas, the clan or pod(s) present. Passive acoustic monitoring is effective throughout the year, day and night, and during stormy weather.
-
-For those wishing to take a deeper dive into killer whale dialects and how they are used to monitor the seasonal movements of the whales, the following are some relevant scientific publications:
-
-> Deecke, V.B., Ford, J.K.B., and Slater, P.J.B. 2005. The vocal behaviour of mammal-eating killer whales: communicating with costly calls. _Animal Behaviour_, 69:395-405. https://doi.org/10.1016/j.anbehav.2004.04.014
-
-> Ford, J.K.B. 1989. Acoustic behaviour of resident killer whales (Orcinus orca) in British Columbia. _Canadian Journal of Zoology_, 67:727-745. https://doi.org/10.1139/z89-105
-
-> Ford, J.K.B. 1991. Vocal traditions among resident killer whales (Orcinus orca) in coastal waters of British Columbia. _Canadian Journal of Zoology_, 69:1454-1483. https://doi.org/10.1139/z91-206
-
-> Riera, A., Pilkington, J.F., Ford, J.K.B., Stredulinsky, E.H., and Chapman, N.R. 2019. Passive acoustic monitoring off Vancouver Island reveals extensive use by at-risk Resident killer whale (Orcinus orca) populations. _Endangered Species Research_, 39:221-234. https://doi.org/10.3354/esr00966
-
-> Rice, A., Deecke, V.B., Ford, J.K.B, Pilkington, J.F., Oleson, E.M. and Hildebrand, J.A. 2017. Spatial and temporal occurrence of killer whale ecotypes off the outer coast of Washington State, USA. _Marine Ecology Progress Series_, 572:255-268. https://doi.org/10.3354/meps12158
-
-> Pilkington, J.F., Stredulinsky, E.H., Gavrilchuk, K., Thornton, S.J., Ford, J.K.B., and Doniol-Valcroze, T. 2023. Patterns of winter occurrence of three sympatric killer whale populations off eastern Vancouver Island, Canada, based on passive acoustic monitoring. _Frontiers in Marine Science_, 10, p.1204908. https://doi.org/10.3389/fmars.2023.1204908
-
 
