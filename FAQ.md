@@ -167,7 +167,7 @@ Ford, John K.B., Volker B. Deecke, and James F. Pilkington. 2026. Dialects of Ki
 ===============================================
 
 
-# Acknowledgements
+# Acknowledgements [to be moved to Acknowledgements page}
 
 This call catalogue was compiled from recordings made by or collected by John Ford, Volker Deecke, and James Pilkington. Their research on killer whale dialects has benefitted by the contributions of recordings from many friends and colleagues over the years. In particular, they thank Ken Balcomb, Lance Barrett-Lennard, Michael Bigg, Nancy Black, Jim Borrowman, Graeme Ellis, Brian Falconer, Olga Filatova, Brian Gisborne, Dawn Goley, Karen Hansen, Erich Hoyt, Stan Hutchings, Jeanne Hyde, Jeff Jacobsen, Bill Mackay, Dena Matkin, Alexandra Morton, Linda Nichol, Rich Osborne, Mayuko Otsuki, Eva Saulitis, Paul Spong, Helena Symonds, Richard Ternullo, Frank Thomsen, Jared Towers, and Harald Yurk.
 
