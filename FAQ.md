@@ -119,6 +119,8 @@ The dialects of orcas are also a useful and important tool for studying the seas
 
 > Deecke, V.B., Ford, J.K.B. and Spong, P. 2000. Dialect change in resident killer whales (Orcinus orca): Implications for vocal learning and cultural transmission. Animal Behaviour, 60 (5):629-638. https://doi.org/10.1006/anbe.2000.1454
 
+> Emmons, C.K., Hanson, M.B. and Lammers, M.O. 2021. Passive acoustic monitoring reveals spatiotemporal segregation of two fish-eating killer whale Orcinus orca populations in proposed critical habitat. Endangered Species Research, 44:253-261. https://doi.org/10.3354/esr01099
+
 > Ford, J. K. B. 1987. A catalogue of underwater calls produced by killer whales (Orcinus orca) in British Columbia. DFO Canadian Data Report of Fisheries and Aquatic Sciences 633:165. Available at: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/103362.pdf
 
 > Ford, J.K.B. 1989. Acoustic behaviour of resident killer whales (Orcinus orca) in British Columbia. _Canadian Journal of Zoology_, 67:727-745. https://doi.org/10.1139/z89-105
